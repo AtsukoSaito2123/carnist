@@ -258,18 +258,16 @@ select {
   text-align-last: center;
 }
 
-
 .select-box{
   text-align: center;
+  margin: 25px 0;
 }
-
 
 .select-box #month {
   display: inline-block;
   cursor: pointer;
   border-radius: 50px;
   width: 200px;
-  margin: 25px 0;
   border: none;
   text-align: center;
   padding: 10px;
