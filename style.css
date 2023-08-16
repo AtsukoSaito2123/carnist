@@ -254,8 +254,8 @@ select {
   color: #5F5F5F;
   font-weight: bold;
   font-size: 15px;
-  -webkit-appearance: none;
-  appearance: none;
+/*   -webkit-appearance: none;
+  appearance: none; */
   /* デフォルトの矢印を非表示 */
   border-radius: 0;
   height: 37px;
@@ -263,18 +263,20 @@ select {
   width: 100px;
 }
 
-.select-box {
+/* .select-box {
   margin: 50px auto 0;
   position: relative;
 }
+ */
 
-select::-ms-expand {
-  display: none;
   /* デフォルトの矢印を非表示(IE用) */
-}
+/* select::-ms-expand {
+  display: none;
+  background
+} */
 
 /* セレクトボックスの矢印デザイン変更 */
-.select-box::before {
+/* .select-box::before {
   border-bottom: 4.5px solid #5F5F5F;
   border-left: 4px solid transparent;
   border-right: 4px solid transparent;
@@ -283,9 +285,9 @@ select::-ms-expand {
   right: 150px;
   top: 36px;
   width: 0;
-}
+} */
 
-.select-box::after {
+/* .select-box::after {
   border-left: 4px solid transparent;
   border-right: 4px solid transparent;
   border-top: 4.5px solid #5F5F5F;
@@ -295,7 +297,7 @@ select::-ms-expand {
   top: 45px;
   width: 0;
 }
-
+ */
 #month {
   display: inline-block;
   cursor: pointer;
