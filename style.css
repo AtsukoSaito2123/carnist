@@ -255,6 +255,7 @@ select {
   background: white;
   font-weight: bold;
   font-size: 15px;
+  text-align-last: center;
 }
 
 
