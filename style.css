@@ -257,10 +257,10 @@ select {
 /*   -webkit-appearance: none;
   appearance: none; */
   /* デフォルトの矢印を非表示 */
-  border-radius: 0;
+/*   border-radius: 0;
   height: 37px;
   padding-left: 10px;
-  width: 100px;
+  width: 100px; */
 }
 
 /* .select-box {
