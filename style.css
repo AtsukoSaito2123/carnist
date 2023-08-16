@@ -266,7 +266,8 @@ select {
 .select-box #month {
   display: inline-block;
   cursor: pointer;
-/*   width: 500px; */
+  border-radius: 50px;
+  width: 200px;
   margin: 25px 0;
   border: none;
   text-align: center;
@@ -276,7 +277,8 @@ select {
 .select-box #day {
   display: inline-block;
   cursor: pointer;
-/*   width: 500px; */
+  border-radius: 50px;
+  width: 200px;
   margin: 25px 0;
   border: none;
   text-align: center;
