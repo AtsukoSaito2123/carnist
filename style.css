@@ -8,7 +8,6 @@
 body {
   background-color: #ECF8FF;
   color: #5F5F5F;
-  min-width: 526px;
 }
 
 img {
@@ -129,17 +128,17 @@ li {
 /* 背景drink-img */
 .header_bg1 {
   position: absolute;
-  width: 100px;
+  width: 70px;
   transform: rotate(-17.208deg);
-  top: 0;
+  top: 20px;
 }
 
 .header_bg2 {
-  width: 75px;
+  width: 60px;
   transform: rotate(14.413deg);
   position: absolute;
-  top: 42px;
-  left: 90px;
+  top: 60px;
+  left: 60px;
 }
 
 .header_bg3 {
@@ -147,7 +146,7 @@ li {
   transform: rotate(14.413deg);
   position: absolute;
   top: 62px;
-  left: 340px;
+  left: 250px;
 }
 
 .header_bg4 {
@@ -155,7 +154,7 @@ li {
   transform: rotate(-17.166deg);
   position: absolute;
   top: 180px;
-  left: 280px;
+  left: 200px;
 }
 
 .img-box3 {
