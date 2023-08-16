@@ -32,8 +32,8 @@ li {
 .logo {
   display: block;
   margin: 0 auto;
-  width: 200px;
-  height: 200px;
+  width: 250px;
+  height: 250px;
 }
 
 /* ハンバーガーメニュー */
@@ -145,7 +145,7 @@ li {
   transform: rotate(14.413deg);
   position: absolute;
   top: 62px;
-  left: 290px;
+  left: 340px;
 }
 
 .header_bg4 {
@@ -153,7 +153,7 @@ li {
   transform: rotate(-17.166deg);
   position: absolute;
   top: 180px;
-  left: 230px;
+  left: 280px;
 }
 
 .img-box3 {
