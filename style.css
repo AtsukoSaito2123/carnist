@@ -255,54 +255,18 @@ select {
   background: white;
   font-weight: bold;
   font-size: 15px;
-/*   -webkit-appearance: none;
-  appearance: none; */
-  /* デフォルトの矢印を非表示 */
-/*   border-radius: 0;
-  height: 37px;
-  padding-left: 10px;
-  width: 100px; */
 }
 
-/* .select-box {
-  margin: 50px auto 0;
-  position: relative;
+
+.select-box{
+  text-align: center;
 }
+
  */
-
-  /* デフォルトの矢印を非表示(IE用) */
-/* select::-ms-expand {
-  display: none;
-  background
-} */
-
-/* セレクトボックスの矢印デザイン変更 */
-/* .select-box::before {
-  border-bottom: 4.5px solid #5F5F5F;
-  border-left: 4px solid transparent;
-  border-right: 4px solid transparent;
-  content: "";
-  position: absolute;
-  right: 150px;
-  top: 36px;
-  width: 0;
-} */
-
-/* .select-box::after {
-  border-left: 4px solid transparent;
-  border-right: 4px solid transparent;
-  border-top: 4.5px solid #5F5F5F;
-  content: "";
-  position: absolute;
-  right: 150px;
-  top: 45px;
-  width: 0;
-}
- */
-#month {
+.select-box #month {
   display: inline-block;
   cursor: pointer;
-  width: 500px;
+/*   width: 500px; */
   margin: 25px 0;
   border: none;
   text-align: center;
@@ -312,7 +276,7 @@ select {
 .select-box #day {
   display: inline-block;
   cursor: pointer;
-  width: 500px;
+/*   width: 500px; */
   margin: 25px 0;
   border: none;
   text-align: center;
