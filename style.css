@@ -187,8 +187,8 @@ header{
 .btn-box-1 {
   display: flex;
   position: absolute;
-  top: 175px;
-  left: 50px;
+  top: 200px;
+  left: 10px;
   white-space: nowrap;
   align-items: center;
 }
@@ -218,7 +218,6 @@ header{
 }
 
 .cast_btn {
-  margin-top: 40px;
   display: inline-block;
   position: relative;
 }
