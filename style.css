@@ -185,7 +185,7 @@ li {
   width: 70px;
   transform: rotate(-17.208deg);
   top: -10px;
-  left: 30px;
+  left: 20px;
 }
 
 .main_bg2 {
@@ -193,7 +193,7 @@ li {
   transform: rotate(14.413deg);
   position: absolute;
   top: 0;
-  left: 90px;
+  left: 80px;
 }
 
 /* ボタン（全員ON,全員OFF,キャスト確定） */
