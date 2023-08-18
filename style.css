@@ -317,11 +317,11 @@ table{
 .table-scroll table{
   border-spacing: 0;
   background-image:
-  url(../carnist/img/drink5.png),
-  url(../carnist/img/drink4.png),
-  url(../carnist/img/drink2.png),
-  url(../carnist/img/drink6.png),
-  url(../carnist/img/drink7.png);
+  url(../img/drink5.png),
+  url(../img/drink4.png),
+  url(../img/drink2.png),
+  url(../img/drink6.png),
+  url(../img/drink7.png);
   background-repeat: no-repeat;
   background-size: 280px;
   background-position:
