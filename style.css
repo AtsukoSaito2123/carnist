@@ -189,7 +189,7 @@ li {
 /* ボタン(キャスト) */
 .btn-box-2 {
   width: 100%;
-  min-width: 500px;
+  min-width: 375px;
   white-space: nowrap;
   overflow-x: scroll;
   margin-left: 10px;
@@ -283,7 +283,7 @@ select {
   overflow: auto;
   height: auto;
   width: 100%;
-  min-width: 500px;
+  min-width: 375px;
 }
 
 .fixed01{
@@ -465,7 +465,7 @@ footer {
   
   .img-box4,
   footer{
-    min-width:500px;
+    min-width:375px;
   }
   
 }
