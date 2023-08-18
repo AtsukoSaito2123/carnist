@@ -457,13 +457,4 @@ footer {
   flex-direction: column;
 }
 
-@media(max-width:503px) {
-
-  .select-box{
-    width: 100%;
-  }
-
-  
-}
-
 
