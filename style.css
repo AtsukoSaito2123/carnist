@@ -434,7 +434,7 @@ span {
 }
 /* 挿入画像エリア */
 .img-box4 {
-  border: 1px solid red;
+  /* border: 1px solid red; */
   display: block;
   margin-top: 40px;
   max-width: 739px;
@@ -442,7 +442,7 @@ span {
 }
 
 .img-box4 img {
-  border: 1px solid blue;
+  /* border: 1px solid blue; */
   width: 90%;
   margin: 0 auto;
   vertical-align: bottom;
@@ -475,7 +475,7 @@ footer {
 }
 
 .select-box{
-  border: 1px solid red;
+  /* border: 1px solid red; */
   width: 100%;
 }
 
