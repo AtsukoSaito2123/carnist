@@ -249,7 +249,7 @@ select {
 
 .select-box {
   display: block;
-  min-width: 500px;
+  min-width: 375px;
   text-align: center;
   padding: 20px 0;
   
